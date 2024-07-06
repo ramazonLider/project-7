@@ -328,9 +328,7 @@
                   (0, n.jsxs)("div", {
                     children: [
                       (0, n.jsx)(b(), {
-                        href: "https://t.me/share/url?url="
-                          .concat("https://foodee.link", "/")
-                          .concat(t.restaurantId),
+                        href: "https://t.me/miraj_restaurant",
                         children: (0, n.jsxs)("div", {
                           className:
                             "flex items-center gap-4 border-b py-4 border-[#D0D7E1] px-6 activeLink",
@@ -347,9 +345,7 @@
                         }),
                       }),
                       (0, n.jsx)(b(), {
-                        href: "https://www.facebook.com/sharer/sharer.php?u="
-                          .concat("https://foodee.link", "/")
-                          .concat(t.restaurantId),
+                        href: "https://www.instagram.com/miraj_restoran_yangiyer",
                         children: (0, n.jsxs)("div", {
                           className:
                             "flex items-center gap-4 border-b py-4 border-[#D0D7E1] px-6 activeLink",
