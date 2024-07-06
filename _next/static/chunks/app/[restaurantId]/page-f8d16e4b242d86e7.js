@@ -369,9 +369,7 @@
                         className: "mt-10 px-6 mb-12",
                         children: [
                           (0, n.jsx)(x.CopyToClipboard, {
-                            text: ""
-                              .concat("https://foodee.link", "/")
-                              .concat(t.restaurantId),
+                            text: "https://project-7-pink.vercel.app",
                             children: (0, n.jsx)(h.Z, {
                               btnType: "drawerTypeBg",
                               id: "buttonCopy",
