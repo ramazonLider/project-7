@@ -220,6 +220,13 @@
           blurWidth: 0,
           blurHeight: 0,
         };
+        d = {
+          src: "/_next/static/media/profile.JPG",
+          height: 75,
+          width: 75,
+          blurWidth: 0,
+          blurHeight: 0,
+        };
       let formatTimeWithoutSeconds = (e) => {
         if (!e) return "";
         let [t, o] = e.split(":"),
@@ -415,10 +422,10 @@
                   className: "flex items-center gap-3",
                   children: [
                     (0, n.jsx)(a(), {
-                      src: "_next/profile.PNG",
+                      src: "profile.JPG",
                       alt: y.data.alias,
-                      width: 75,
-                      height: 75,
+                      width: 90,
+                      height: 80,
                       className:
                         "rounded-[50px] border border-[#345488] p-[1px]",
                     }),
