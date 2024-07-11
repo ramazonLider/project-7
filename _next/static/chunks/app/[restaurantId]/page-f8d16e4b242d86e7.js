@@ -415,9 +415,7 @@
                   className: "flex items-center gap-3",
                   children: [
                     (0, n.jsx)(a(), {
-                      src: ""
-                        .concat("https://api.zon.uz")
-                        .concat(y.data.logo.src),
+                      src: "_next/profile.PNG",
                       alt: y.data.alias,
                       width: 75,
                       height: 75,
